@@ -2,6 +2,14 @@
 
 A comprehensive implementation of Term Frequency-Inverse Document Frequency (TF-IDF) algorithms for understanding text vectorization in Retrieval-Augmented Generation (RAG) systems.
 
+[**🧠 Mastering RAG: Empowering AI Models with Our Custom Data**][rag-blog]
+
+[rag-blog]: https://aicodegeek.com/2025/06/29/RAG-Empowering-AI-Models-with-Our-Custom-Data
+
+[**🚀 Complete Guide to Vectors and TF-IDF in RAG Systems**][rag-blog2]
+
+[rag-blog2]: https://aicodegeek.com/2025/06/29/Complete-Guide-tt-Vectors-and-TF-IDF-in-RAG-Systems
+
 ## 📚 Overview
 
 This project demonstrates how to convert text documents into numerical vectors using TF-IDF, which forms the foundation for understanding modern embedding techniques used in RAG systems. The implementation includes both manual calculations and scikit-learn integration.
